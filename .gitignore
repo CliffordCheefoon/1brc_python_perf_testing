@@ -1,0 +1,7 @@
+data/measurements.txt
+data/measurements_1_mill.txt
+data/measurements_10_mill.txt
+data/measurements_100_mill.txt
+.venv
+.ruff_cache
+__pycache__
