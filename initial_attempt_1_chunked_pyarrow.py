@@ -5,12 +5,11 @@ import pyarrow.compute as pc
 
 start_time = time.perf_counter()
 # replace the path with your actual CSV file location
-CHUNK_SIZE = 10_000_000  # 10 MB
-csv_path = r"data/measurements.txt"
+csv_path = r"data/measurements_100_mill.txt"
 partial_results = []
 
 my_labels = ["station", "temperature"]
-read_options = csv.ReadOptions(block_size=CHUNK_SIZE, column_names=my_labels)
+read_options = csv.ReadOptions(column_names=my_labels)
 parse_options = csv.ParseOptions(delimiter=";")
 
 

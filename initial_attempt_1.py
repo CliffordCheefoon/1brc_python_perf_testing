@@ -7,8 +7,7 @@ csv_path = r"data/measurements_100_mill.txt"
 
 df = pd.read_csv(csv_path, sep=";")
 
-if df.columns.tolist() != ["station", "temperature"]:
-    df.columns = ["station", "temperature"]
+df.columns = ["station", "temperature"]
 
 df["temperature"] = pd.to_numeric(df["temperature"], errors="coerce")
 
