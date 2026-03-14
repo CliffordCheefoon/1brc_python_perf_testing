@@ -1,8 +1,0 @@
-python .\initial_attempt_1_chunked_pyarrow.py
-Time taken: 172.94 seconds
-
-python .\initial_attempt_1_chunked.py
-402.61 seconds
-
-python .\custom_code_optimized_2.py
-662.07 seconds
