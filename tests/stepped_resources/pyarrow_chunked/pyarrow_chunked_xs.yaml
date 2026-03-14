@@ -1,0 +1,15 @@
+services:
+  app:
+    build: ../../../
+    volumes:
+      - ../../../:/app
+    working_dir: /app
+    command: python pyarrow_chunked.py "pyarrow_chunked_xs"
+    deploy:
+      resources:
+        reservations:
+          cpus: '0.5'
+          memory: 0.5g
+        limits:
+          cpus: '0.5'
+          memory: 0.5g
