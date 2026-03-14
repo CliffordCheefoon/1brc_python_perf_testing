@@ -7,6 +7,7 @@ for run in {1..5}; do
     for file in $(find . -type f -not -name "results.log" -not -name "run_test.sh"); do
         echo "Running docker compose for $file in run $run" 
         # Run docker compose and record output
+        sudo echo 3 > /proc/sys/vm/drop_caches
         sudo docker compose -f "$file" up --abort-on-container-exit >> results.log 2>&1
         echo "Finished $file in run $run"
     done
