@@ -4,7 +4,7 @@ services:
     volumes:
       - .:/app
     working_dir: /app
-    command: python polars_attempt.py
+    command: python polars_attempt_chunked.py
     deploy:
       resources:
         reservations:

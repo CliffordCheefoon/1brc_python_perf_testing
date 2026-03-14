@@ -1,5 +1,6 @@
 import pandas as pd
 import time
+import sys
 
 start_time = time.perf_counter()
 # replace the path with your actual CSV file location
@@ -14,18 +15,13 @@ chunks = pd.read_csv(
     chunksize=CHUNK_SIZE,
 )
 
-
 for chunk in chunks:
-    if chunk.columns.tolist() != ["station", "temperature"]:
-        chunk.columns = ["station", "temperature"]
-
-    chunk["temperature"] = pd.to_numeric(chunk["temperature"], errors="coerce")
+    chunk.columns = ["station", "temperature"]
 
     stats = chunk.groupby("station")["temperature"].agg(
         min="min", max="max", sum="sum", count="count"
     )
     partial_results.append(stats)
-
 
 final_stats = (
     pd.concat(partial_results)
@@ -45,5 +41,6 @@ final_stats = final_stats[["min", "mean", "max"]]  # reorder columns
 
 
 end_time = time.perf_counter()
-print(final_stats)
-print(f"Time taken: {end_time - start_time:.2f} seconds")
+#print(final_stats)
+test_tag = sys.argv[1]
+print(f"{test_tag} || Time taken: {end_time - start_time:.2f} seconds")

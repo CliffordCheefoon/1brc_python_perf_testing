@@ -1,3 +1,5 @@
+import sys
+
 import pandas as pd
 import time
 
@@ -9,10 +11,9 @@ df = pd.read_csv(csv_path, sep=";")
 
 df.columns = ["station", "temperature"]
 
-df["temperature"] = pd.to_numeric(df["temperature"], errors="coerce")
-
 stats = df.groupby("station")["temperature"].agg(min="min", mean="mean", max="max")
 
 end_time = time.perf_counter()
-print(stats)
-print(f"Time taken: {end_time - start_time:.2f} seconds")
+#print(stats)
+test_tag = sys.argv[1]
+print(f"{test_tag} || Time taken: {end_time - start_time:.2f} seconds")

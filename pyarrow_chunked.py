@@ -1,3 +1,4 @@
+import sys
 import time
 import pyarrow as pa
 import pyarrow.csv as csv
@@ -5,7 +6,7 @@ import pyarrow.compute as pc
 
 start_time = time.perf_counter()
 # replace the path with your actual CSV file location
-csv_path = r"data/measurements_100_mill.txt"
+csv_path = r"data/measurements.txt"
 partial_results = []
 
 my_labels = ["station", "temperature"]
@@ -52,5 +53,6 @@ final_stats = final_stats.select(
 )
 
 end_time = time.perf_counter()
-print(final_stats)
-print(f"Time taken: {end_time - start_time:.2f} seconds")
+#print(final_stats)
+test_tag = sys.argv[1]
+print(f"{test_tag} || Time taken: {end_time - start_time:.2f} seconds")
