@@ -1,0 +1,15 @@
+services:
+  app:
+    build: ../../../
+    volumes:
+      - ../../../:/app
+    working_dir: /app
+    command: python pandas_chunked.py "pandas_chunked_m"
+    deploy:
+      resources:
+        reservations:
+          cpus: '1'
+          memory: 2g
+        limits:
+          cpus: '1'
+          memory: 2g

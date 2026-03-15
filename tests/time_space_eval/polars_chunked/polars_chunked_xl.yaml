@@ -1,0 +1,15 @@
+services:
+  app:
+    build: ../../../
+    volumes:
+      - ../../../:/app
+    working_dir: /app
+    command: python polars_chunked.py "polars_chunked_xl"
+    deploy:
+      resources:
+        reservations:
+          cpus: '1'
+          memory: 8g
+        limits:
+          cpus: '1'
+          memory: 8g
