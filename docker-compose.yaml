@@ -4,12 +4,12 @@ services:
     volumes:
       - .:/app
     working_dir: /app
-    command: python polars_attempt_chunked.py
+    command: python polars_chunked.py optimal
     deploy:
       resources:
         reservations:
-          cpus: '1.0'
-          memory: 1g
+          cpus: '8.0'
+          memory: 0.128g
         limits:
-          cpus: '1.0'
-          memory: 1g
+          cpus: '8.0'
+          memory: 0.128g

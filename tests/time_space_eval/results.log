@@ -1,0 +1,639 @@
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_l || Time taken: 118.95 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xl || Time taken: 118.22 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_s || Time taken: 119.88 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_m || Time taken: 119.64 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xxs || Time taken: 120.72 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xs || Time taken: 119.94 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_s || Time taken: 247.54 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xs || Time taken: 294.15 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+[Kapp-1 exited with code 137
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_l || Time taken: 267.51 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xl || Time taken: 256.54 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_m || Time taken: 268.89 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_s || Time taken: 319.30 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xl || Time taken: 315.55 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+[Kapp-1 exited with code 137
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_l || Time taken: 318.46 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_m || Time taken: 318.62 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xs || Time taken: 336.83 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+Top-level object must be a mapping
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_l || Time taken: 118.86 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xl || Time taken: 117.97 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_s || Time taken: 119.49 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_m || Time taken: 119.12 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xxs || Time taken: 120.28 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xs || Time taken: 120.04 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_s || Time taken: 266.49 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xs || Time taken: 284.76 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+[Kapp-1 exited with code 137
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_l || Time taken: 272.35 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xl || Time taken: 267.76 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_m || Time taken: 236.81 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_s || Time taken: 318.50 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xl || Time taken: 315.26 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+[Kapp-1 exited with code 137
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_l || Time taken: 319.49 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_m || Time taken: 321.00 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xs || Time taken: 336.81 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+Top-level object must be a mapping
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_l || Time taken: 119.03 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xl || Time taken: 118.17 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_s || Time taken: 119.58 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_m || Time taken: 119.23 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xxs || Time taken: 120.54 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xs || Time taken: 120.02 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_s || Time taken: 268.46 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xs || Time taken: 294.83 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+Gracefully stopping... (press Ctrl+C again to force)
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+canceled
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_l || Time taken: 269.53 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xl || Time taken: 265.61 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_m || Time taken: 268.01 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_s || Time taken: 320.64 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xl || Time taken: 313.87 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+[Kapp-1 exited with code 137
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_l || Time taken: 317.99 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_m || Time taken: 318.26 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xs || Time taken: 334.41 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+Top-level object must be a mapping
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_l || Time taken: 118.43 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xl || Time taken: 117.60 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_s || Time taken: 120.15 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_m || Time taken: 119.13 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xxs || Time taken: 120.47 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xs || Time taken: 119.94 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_s || Time taken: 256.88 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xs || Time taken: 284.25 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+Gracefully stopping... (press Ctrl+C again to force)
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+canceled
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_l || Time taken: 270.14 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xl || Time taken: 267.33 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_m || Time taken: 267.42 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_s || Time taken: 319.47 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xl || Time taken: 318.60 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+[Kapp-1 exited with code 137
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_l || Time taken: 319.97 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_m || Time taken: 317.84 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+ Container pandas_chunked-app-1  Recreate
+ Container pandas_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pandas_chunked_xs || Time taken: 334.72 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pandas_chunked-app-1  Stopping
+ Container pandas_chunked-app-1  Stopped
+Top-level object must be a mapping
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_l || Time taken: 119.89 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xl || Time taken: 118.02 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_s || Time taken: 119.76 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_m || Time taken: 119.07 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xxs || Time taken: 120.12 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container polars_chunked-app-1  Recreate
+ Container polars_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | polars_chunked_xs || Time taken: 120.59 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container polars_chunked-app-1  Stopping
+ Container polars_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_s || Time taken: 263.83 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
+app-1  | pyarrow_chunked_xs || Time taken: 294.27 seconds
+[Kapp-1 exited with code 0
+Aborting on container exit...
+ Container pyarrow_chunked-app-1  Stopping
+ Container pyarrow_chunked-app-1  Stopped
+ Container pyarrow_chunked-app-1  Recreate
+ Container pyarrow_chunked-app-1  Recreated
+Attaching to app-1
