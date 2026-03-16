@@ -2,3 +2,7 @@ Try Dask
 
 load data file into memory:
 cat /path/to/filename > /dev/null
+
+
+Good pure python solution:
+https://github.com/ifnesi/1brc/blob/main/calculateAveragePypy.py
