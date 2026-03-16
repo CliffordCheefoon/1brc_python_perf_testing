@@ -9,7 +9,7 @@ services:
       resources:
         reservations:
           cpus: '8.0'
-          memory: 0.128g
+          memory: 0.25g
         limits:
           cpus: '8.0'
-          memory: 0.128g
+          memory: 0.25g
