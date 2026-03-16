@@ -1,1 +1,4 @@
 Try Dask
+
+load data file into memory:
+cat /path/to/filename > /dev/null
